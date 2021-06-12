@@ -7,4 +7,4 @@
 
 三，张氏二简字黑体，分v1.2、v2.0两个版本，详情请见《张二黑字体说明》。
 
-四，西文字体(Due West正西)，基于Times New Roman和BabelStone Roman修改制作。
+四，西文字体(Due West正西、Italic West歪西)，基于Times New Roman和BabelStone Roman修改制作。
